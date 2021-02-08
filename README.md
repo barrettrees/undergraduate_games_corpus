@@ -23,3 +23,8 @@ The file `corpus.json` contains an JSON object mapping keys to values. Keys are 
 If you wish to report a problem with the corpus, request a change, or just ask a question, feel free to email:
 - Barrett Anderson (`barander@ucsc.edu`)
 - Adam Smith (`amsmith@ucsc.edu`)
+
+## TODO
+- update `corpus.json` with the rest of the games
+- add an example notebook that shows how to find the first twine game, download some html data, and list all of the passage names
+- add a cool "Open in Colab" badge (and make sure it works the way we expect)
