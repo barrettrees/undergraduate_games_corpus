@@ -17,3 +17,9 @@ The file `corpus.json` contains an JSON object mapping keys to values. Keys are 
  - year
  - quarter
  - files (list of links for downloading larger data files)
+
+## Contact
+
+If you wish to report a problem with the corpus, request a change, or just ask a question, feel free to email:
+- Barrett Anderson (`barander@ucsc.edu`)
+- Adam Smith (`amsmith@ucsc.edu`)
