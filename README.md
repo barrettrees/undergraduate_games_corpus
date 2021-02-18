@@ -11,7 +11,7 @@ bibtex entry forthcoming
 ## Data Schema
 The file `corpus.json` contains an JSON object mapping keys to values. Keys are globally unique archival resource keys ([ARKs](https://en.wikipedia.org/wiki/Archival_Resource_Key)) and values are objects describing games with the fields listed below:
 
- - permalink (link to human-readable page the game game)
+ - permalink (link to human-readable page about the game)
  - title
  - description
  - authors
