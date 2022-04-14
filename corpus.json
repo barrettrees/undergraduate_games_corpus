@@ -23419,32 +23419,6 @@
             }
         ]
     },
-    "ark:/13030/qt9j73p3h7": {
-        "permalink": "https://escholarship.org/uc/item/9j73p3h7",
-        "title": "Big Break Shoreline",
-        "description": "Big Break Shoreline by Tamara Muradyan\nBig Break Shoreline is a simple branching narrative about an abuse victim debating on whether or not they should leave their girlfriend after she started getting physical with you. It's up to the player to either go back to their abusive household and hope they can sort things out, or make a change and finally move out. Three possible endings, one of which leading to a cat.\nContent Warning: Abuse, blood, panic attacks, mentions of violence, degradation",
-        "authors": [
-            {
-                "firstname": "Tamara",
-                "lastname": "Muradyan"
-            }
-        ],
-        "engine": "Twine",
-        "tags": [
-            "Anxiety",
-            " Slice-of-Life",
-            " Depression"
-        ],
-        "license": "Default Copyright",
-        "year": "2020",
-        "quarter": "Spring 2020",
-        "files": [
-            {
-                "downloadLink": "http://escholarship.org/content/qt9j73p3h7/supp/muradyantamara_48484_2283547_Twine_assignment_1_FINAL.html",
-                "contentType": "text/html"
-            }
-        ]
-    },
     "ark:/13030/qt9jn1f41p": {
         "permalink": "https://escholarship.org/uc/item/9jn1f41p",
         "title": "Slugzilla",
